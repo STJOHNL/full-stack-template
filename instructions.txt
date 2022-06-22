@@ -1,0 +1,9 @@
+1. Initialize npm and install dependencies
+    - Express
+    - Dotenv
+    - Cors
+    - MongoDB
+    - EJS
+    - Nodemon(--save-dev)
+
+    2. Require dependencies
