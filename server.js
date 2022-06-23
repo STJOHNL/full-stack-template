@@ -34,7 +34,7 @@ app.get('/', async (req, res) => {
     try {
         res.sendFile('index.ejs')
     } catch (err) {
-        res.status(500).send({ message: err })
+        res.status(500).send({ message: err.message })
     }
 })
 
