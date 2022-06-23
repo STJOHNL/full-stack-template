@@ -10,19 +10,27 @@
 
 3. Declare variables
 
-4. Connect to MongoDB and add connection string in env file
+4. Create .env and .gitignore file
 
-5. Create a Port
+5. Connect to MongoDB and add connection string in env file
 
-6. Test Mongo and Port connection
+6. Create a Port
 
-7. Set middleware
+7. Test Mongo and Port connection
 
-8. Create Public and Views folders and add main.js and style.css to Public and index.ejs to Views
+8. Set middleware
 
-9. From root, init local git repo and commit
+9. Create public and views folders
 
-10. Create Heroku repo
+10. Add main.js and style.css to Public
+
+11. Add index.ejs to views
+
+12. Add content to main.js, style.css, and index.ejs
+
+13. From root, init local git repo and commit
+
+14. Create Heroku repo
     % heroku login
     % heroku create <app-name>
     % echo "web: node server.js" > Procfile
