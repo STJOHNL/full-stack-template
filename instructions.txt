@@ -23,4 +23,9 @@
 9. From root, init local git repo and commit
 
 10. Create Heroku repo
+    % heroku login
+    % heroku create <app-name>
+    % echo "web: node server.js" > Procfile
+    % git add .
+    % git commit -m "comment"
     % 
