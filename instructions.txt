@@ -6,4 +6,21 @@
     - EJS
     - Nodemon(--save-dev)
 
-    2. Require dependencies
+2. Require dependencies in server.js
+
+3. Declare variables
+
+4. Connect to MongoDB and add connection string in env file
+
+5. Create a Port
+
+6. Test Mongo and Port connection
+
+7. Set middleware
+
+8. Create Public and Views folders and add main.js and style.css to Public and index.ejs to Views
+
+9. From root, init local git repo and commit
+
+10. Create Heroku repo
+    % 
